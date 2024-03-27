@@ -1,4 +1,4 @@
-# Project Name - _Project Author (Change Me)_
+# Google form - Ravisankar N
 
 ## Project Name and Description:
 A concise yet descriptive title and an overview of the project’s purpose.
@@ -22,3 +22,6 @@ Provide sample code or usage scenarios to showcase how the project works.
 ## Important Links:
 Details about useful external links
  
+##Gradle
+
+jun do the comments on ./gradlew run
